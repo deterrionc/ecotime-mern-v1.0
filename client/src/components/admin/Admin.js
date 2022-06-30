@@ -5,7 +5,8 @@ import PrivateRoute from '../routing/PrivateRoute'
 import AdminSidebar from './AdminSidebar'
 import AdminDashboard from './AdminDashboard'
 import AdminHR from './AdminHR'
-import AdminSettings from './AdminSettings'
+import AdminSettings from './admin-settings'
+import CompanyDetails from './admin-settings/CompanyDetails'
 
 const Admin = () => {
 
@@ -18,6 +19,7 @@ const Admin = () => {
             <PrivateRoute exact path="/" component={AdminDashboard} />
             <PrivateRoute exact path="/hr" component={AdminHR} />
             <PrivateRoute exact path="/settings" component={AdminSettings} />
+            <PrivateRoute exact path="/company-details" component={CompanyDetails} />
           </Router>
         </div>
       </div>

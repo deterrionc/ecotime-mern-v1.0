@@ -69,3 +69,8 @@ a  {
 .color-thick-green {
   color: rgb(15, 94, 48);
 }
+
+.btn-info {
+  background-color: #00cfe8 !important;
+  border: #00cfe8 !important;
+}
