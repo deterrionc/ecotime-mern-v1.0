@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="_Icon_Color" data-name="🎨 Icon Color" width="24" height="24" transform="translate(11 11)" fill="#00cfe8"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_281" data-name="Mask Group 281" transform="translate(-11 -11)" clip-path="url(#clip-path)">
+    <g id="add-user" transform="translate(11 11)">
+      <g id="Group_671" data-name="Group 671">
+        <g id="Group_670" data-name="Group 670">
+          <path id="Path_64" data-name="Path 64" d="M10,0A6.006,6.006,0,0,0,4,6V8a5.967,5.967,0,0,0,1.022,3.346A9.988,9.988,0,0,0,0,20v1a3,3,0,0,0,3,3h9a1,1,0,1,0,0-2H3a1,1,0,0,1-1-1V20a8.007,8.007,0,0,1,4.456-7.169A5.989,5.989,0,0,0,16,8V6A6.006,6.006,0,0,0,10,0Zm4,8A4,4,0,0,1,6,8V6a4,4,0,0,1,8,0V8Z" fill="#00cfe8"/>
+        </g>
+      </g>
+      <g id="edit" transform="translate(14.069 10)">
+        <g id="Group_669" data-name="Group 669">
+          <g id="Group_668" data-name="Group 668">
+            <path id="Path_62" data-name="Path 62" d="M0,73.966v2.058H2.058l6.073-6.073L6.073,67.893Z" transform="translate(0 -66.146)" fill="#00cfe8"/>
+            <path id="Path_63" data-name="Path 63" d="M261.728,1.442,260.447.161a.55.55,0,0,0-.777,0l-1,1,2.058,2.058,1-1A.55.55,0,0,0,261.728,1.442Z" transform="translate(-252.011)" fill="#00cfe8"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

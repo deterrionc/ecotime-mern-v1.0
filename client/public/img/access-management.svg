@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="_Icon_Color" data-name="🎨 Icon Color" width="24" height="24" transform="translate(11 11)" fill="#4bd8eb"/>
+    </clipPath>
+  </defs>
+  <g id="access_mgmt" data-name="access mgmt" transform="translate(-11 -11)" clip-path="url(#clip-path)">
+    <g id="driver-license" transform="translate(11 11)">
+      <path id="Subtraction_3" data-name="Subtraction 3" d="M-307.209-48.78h-2.153l1.408-1.408h.745a.8.8,0,0,0,.8-.8v-.745L-305-53.141v2.153A2.211,2.211,0,0,1-307.209-48.78Zm-9.334,0h-10.248A2.212,2.212,0,0,1-329-50.989v-12.8a2.194,2.194,0,0,1,.646-1.563A2.2,2.2,0,0,1-326.791-66h19.582A2.214,2.214,0,0,1-305-63.789v7.979l-1.408-1.408v-6.571a.8.8,0,0,0-.8-.8h-19.582a.8.8,0,0,0-.8.8v12.8a.8.8,0,0,0,.8.8h8.838l1.408,1.406Z" transform="translate(329 69.389)" fill="#4bd8eb"/>
+      <path id="Path_66" data-name="Path 66" d="M9.41,13.72a2.586,2.586,0,1,0-3.857,0A3.717,3.717,0,0,0,3.766,16.9a.7.7,0,0,0,.7.7h6.025a.7.7,0,0,0,.7-.7A3.717,3.717,0,0,0,9.41,13.72Zm-1.928-2.9A1.18,1.18,0,1,1,6.3,12a1.18,1.18,0,0,1,1.182-1.18Zm-2.2,5.372a2.31,2.31,0,0,1,4.4,0Z" fill="#4bd8eb"/>
+      <path id="Path_68" data-name="Path 68" d="M19.531,6.4H4.469a.7.7,0,1,0,0,1.406H19.531a.7.7,0,1,0,0-1.406Z" fill="#4bd8eb"/>
+      <path id="Path_11" data-name="Path 11" d="M17.477,21.741l-4.758-4.758,1.414-1.414,3.344,3.344,6.455-6.455,1.414,1.414Z" transform="translate(-1.426 1.042)" fill="#4bd8eb"/>
+    </g>
+  </g>
+</svg>

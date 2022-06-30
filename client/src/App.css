@@ -1,0 +1,68 @@
+.bg-grey {
+  background-color: #f8f8f8;
+}
+
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.float-right {
+  float: right;
+}
+
+.sidebar {
+  min-height: 100vh;
+}
+
+.signoutLink {
+  position: fixed;
+  bottom: 20px;
+  width: 16.666667% !important;
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    min-height: inherit;
+  }
+
+  .signoutLink {
+    position: inherit;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    width: 100% !important;
+  }
+}
+
+.menuItem {
+  font-size: 18px;
+  color: #000000;
+}
+
+.menuItem:hover {
+  background-color: #146134;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+}
+
+.selected {
+  background-color: #146134;
+  color: white;
+}
+
+.bg-light-blue {
+  background-color: #e0f9fc;
+}
+
+.bg-light-orange {
+  background-color: #fff3e8;
+}
+
+.bg-light-purple {
+  background-color: #eeedfd;
+}
+
+.color-thick-green {
+  color: rgb(15, 94, 48);
+}

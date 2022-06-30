@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="_Icon_Color" data-name="🎨 Icon Color" width="24" height="24" transform="translate(11 11)" fill="#8b81f3"/>
+    </clipPath>
+  </defs>
+  <g id="user_del" data-name="user del" transform="translate(-11 -11)" clip-path="url(#clip-path)">
+    <g id="add-user" transform="translate(11 11)">
+      <g id="Group_665" data-name="Group 665">
+        <g id="Group_664" data-name="Group 664">
+          <path id="Path_60" data-name="Path 60" d="M9.253,0A5.557,5.557,0,0,0,3.7,5.552V7.4a5.521,5.521,0,0,0,.946,3.1A9.241,9.241,0,0,0,0,18.505v.925a2.776,2.776,0,0,0,2.776,2.776H10.1a.925.925,0,1,0,0-1.851H2.776a.925.925,0,0,1-.925-.925v-.925a7.409,7.409,0,0,1,4.123-6.633A5.541,5.541,0,0,0,14.8,7.4V5.552A5.557,5.557,0,0,0,9.253,0Zm3.7,7.4a3.7,3.7,0,0,1-7.4,0V5.552a3.7,3.7,0,0,1,7.4,0Z" fill="#8b81f3"/>
+        </g>
+      </g>
+      <path id="Union_2" data-name="Union 2" d="M0,6a6,6,0,1,1,6,6A6,6,0,0,1,0,6Zm6,4.616A4.613,4.613,0,0,0,9.715,3.264L3.263,9.716A4.593,4.593,0,0,0,6,10.616ZM1.385,6a4.6,4.6,0,0,0,.9,2.737L8.736,2.285A4.613,4.613,0,0,0,1.385,6Z" transform="translate(12 12)" fill="#8b81f3"/>
+    </g>
+  </g>
+</svg>

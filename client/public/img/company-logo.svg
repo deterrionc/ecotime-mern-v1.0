@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="_Icon_Color" data-name="🎨 Icon Color" width="24" height="24" transform="translate(11 11)" fill="#28c76f"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_295" data-name="Mask Group 295" transform="translate(-11 -11)" clip-path="url(#clip-path)">
+    <g id="calendar_1_" data-name="calendar (1)" transform="translate(11 11)">
+      <g id="Group_697" data-name="Group 697">
+        <g id="Group_696" data-name="Group 696">
+          <path id="Path_98" data-name="Path 98" d="M20.25,1.875H19.031V.938a.938.938,0,0,0-1.875,0v.938H12.891V.938a.938.938,0,0,0-1.875,0v.938H6.8V.938a.938.938,0,0,0-1.875,0v.938H3.75A3.754,3.754,0,0,0,0,5.625V20.25A3.754,3.754,0,0,0,3.75,24h7.172a.938.938,0,0,0,0-1.875H3.75A1.877,1.877,0,0,1,1.875,20.25V5.625A1.877,1.877,0,0,1,3.75,3.75H4.922v.938a.938.938,0,0,0,1.875,0V3.75h4.219v.938a.938.938,0,0,0,1.875,0V3.75h4.266v.938a.938.938,0,0,0,1.875,0V3.75H20.25a1.877,1.877,0,0,1,1.875,1.875v5.344a.938.938,0,0,0,1.875,0V5.625A3.754,3.754,0,0,0,20.25,1.875Z" fill="#28c76f"/>
+          <circle id="Ellipse_67" data-name="Ellipse 67" cx="0.938" cy="0.938" r="0.938" transform="translate(9 12.984)" fill="#28c76f"/>
+          <circle id="Ellipse_68" data-name="Ellipse 68" cx="0.938" cy="0.938" r="0.938" transform="translate(4.922 8.906)" fill="#28c76f"/>
+          <circle id="Ellipse_69" data-name="Ellipse 69" cx="0.938" cy="0.938" r="0.938" transform="translate(4.922 12.984)" fill="#28c76f"/>
+          <circle id="Ellipse_70" data-name="Ellipse 70" cx="0.938" cy="0.938" r="0.938" transform="translate(4.922 17.063)" fill="#28c76f"/>
+          <circle id="Ellipse_71" data-name="Ellipse 71" cx="0.938" cy="0.938" r="0.938" transform="translate(9 17.063)" fill="#28c76f"/>
+          <circle id="Ellipse_72" data-name="Ellipse 72" cx="0.938" cy="0.938" r="0.938" transform="translate(9 8.906)" fill="#28c76f"/>
+          <path id="button" d="M124.859,5.64h-2.212V5.525a2.9,2.9,0,1,0-2.488,0v1.8h-.138a1.246,1.246,0,0,0-1.244,1.244v2.212a1.246,1.246,0,0,0,1.106,1.236v1.722a.415.415,0,0,0,.415.415h5.392a.415.415,0,0,0,.415-.415V6.885A1.246,1.246,0,0,0,124.859,5.64Zm-5.253,5.143V8.571a.415.415,0,0,1,.415-.415h.553a.415.415,0,0,0,.415-.415V3.1a.415.415,0,0,1,.829,0V6.055a.415.415,0,0,0,.415.415h2.627a.415.415,0,0,1,.415.415V11.2h-5.253A.415.415,0,0,1,119.606,10.783Z" transform="translate(-104.05 9.843)" fill="#28c76f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
